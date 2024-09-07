@@ -1,0 +1,4 @@
+networkx==2.8.8
+matplotlib==3.5.3
+pillow==9.3.0
+numpy==1.23.5
