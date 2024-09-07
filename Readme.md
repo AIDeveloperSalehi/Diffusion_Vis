@@ -1,6 +1,7 @@
 # Diffusion Model Visualization Project
 
-This project provides a visual representation of the concepts behind diffusion models, including both discrete and continuous processes. It generates artificial animations to illustrate how diffusion models work in graph structures and images. The generated animations are not exact output of the diffusion model and artificiall discrete and continuous noise are added to generative part of graph or image. The content is for the following post:
+This project provides a visual representation of the concepts behind diffusion models, including both discrete and continuous processes. It generates artificial animations to illustrate how diffusion models work in graph structures and images. The generated animations are not exact output of the diffusion model and artificiall discrete and continuous noise are added to generative part of graph or image. The content is for the following post: 
+https://www.linkedin.com/posts/hojat-salehi-29216736_artificialintelligence-diffusionmodels-machinelearning-activity-7238288730506039296-6Qqs?utm_source=share&utm_medium=member_desktop
 
 
 ## Table of Contents
